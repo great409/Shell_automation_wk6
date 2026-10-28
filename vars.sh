@@ -1,3 +1,3 @@
 #!/bin/bash
-NAME="student"
+NAME="Student"
 echo "Hello $NAME"
